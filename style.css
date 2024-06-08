@@ -1,0 +1,82 @@
+body{
+padding: 0; background-image: url(jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
+margin: 0; background-repeat: no-repeat;background-size: 1347px  291px; margin-top: 2cm; width: 1000px;} 
+ul{
+   list-style-type: none;
+   background-color:#210e0e; margin-top: 5cm;
+   color: white; margin: 0px; border-radius: 3cm; border-style:double; border-color: greenyellow;margin-top: 3cm; height: 57px; width: 1300px;}
+ul li {
+ display: inline-block; padding: 30px; transition: 0.2s; margin-left: 50px;margin-top: -0.25cm; margin-bottom: auto;}
+ ul li button{
+   background-color: blueviolet; height:35px; width: 100px;font-size: larger; transition-duration:  0.4s; margin-top: -4cm;margin-bottom: 2cm;
+   transition-property: all;box-shadow: 1px 1px 3px white ; 
+      }
+   ul li button:hover{
+   background-color: aquamarine; border-radius: 20px; color: black; 
+      }
+.container{
+   display: flex; width: 1200px; height: 4200px;align-content: space-around;  border: 0.1cm blue solid;
+   margin-left: 75px; margin-top: 0.8cm;
+   background-size: 1340px 1268px; background-image: url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);margin-bottom: 10px;flex-flow: wrap; background-repeat: repeat-y;
+}
+.item{
+   width: 377px; box-sizing: border-box;  background-color: black; color: whitesmoke;box-shadow: 0 5px 8px 0px white; margin-left: auto; margin-right: auto; margin-top: -10px; margin-bottom: auto;
+   height: 460px; text-transform: capitalize;flex-wrap: wrap; 
+}
+.container img{
+   width: 375px;
+   height: 200px;padding-left: -20px; position: relative; transition-duration: 0.s;transition-property: width,height,overflow; border-radius: 5px;}
+   .container img:hover{
+width: 379px;height: 202px; overflow: hidden;
+   }
+#btn{
+   background-color: green; color: wheat; margin-bottom: auto;margin-top: 20px;margin-left: 6.5cm; height: 1cm; font-size: larger;transition-duration: 0.2s;transition-property: all;
+}
+#btn:hover{
+   background-color:black;color: white; border-radius: 10px;
+}
+#btn1{
+   background-color: green; color: wheat; margin-bottom: auto;margin-top: 40px;margin-left: 6.5cm; height: 1cm; font-size: larger; 
+}
+#head{
+  padding-left: 13.5cm; color: wheat;}
+#img{
+   padding-left: 15.5cm;
+}  
+#back{
+  background-image: url(1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); margin-top: 0cm; margin-left: -10px;width: 1357px;
+}
+.footer{
+   height: 60px; background-color: Black; color: white;width:1347px;
+}
+a{
+   color: royalblue;
+}
+a:hover{
+   background-color: rgba(255, 0, 0, 0.288);
+}
+a::after{
+   color: purple;
+}
+
+#fi{
+   list-style-type: none; display: inline-block;
+}
+#fiii{
+      display: inline-block; padding-left: auto;padding-top:auto; padding-bottom: auto; padding-right: auto; background-color: red; width:130px; height: 31px; margin-left: 25px;transition-duration: 0.5s;transition-property:border-radius;color: white; margin-top: auto;margin-bottom: auto; border-radius: 5px;
+}
+#fiii:hover{
+   background-color:greenyellow; color: Red; border-radius: 20px;
+}
+.header{
+   margin-top: -2cm;
+}
+::placeholder{
+   color: purple;
+}
+ol{
+   list-style-type: none;
+}
+ol li button p{
+   font-size: xx-large; 
+}
