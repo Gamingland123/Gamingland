@@ -1,0 +1,119 @@
+body{
+padding: 0; background-image: url(jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
+margin: 0; background-repeat: no-repeat;background-size: 1355px  291px; margin-top: 2cm; width: 1000px;} 
+.nav{
+   list-style-type: none;
+   background-color:#210e0e; margin-top: 5cm;
+   color: white; margin: 0px; border-radius: 3cm; border-style:double; border-color: greenyellow;margin-top: 3cm; height: 57px; width: 1300px;}
+   .nav li {
+ display: inline-block; padding: 30px; transition: 0.2s; margin-left: 50px;margin-top: -0.25cm; margin-bottom: auto;}
+ .nav li button{
+   background-color: blueviolet; height:35px; width: 100px;font-size: larger; transition-duration:  0.4s; margin-top: -4cm;margin-bottom: 2cm;
+   transition-property: all;box-shadow: 1px 1px 3px white ; 
+      }
+   .nav li button:hover{
+   background-color: aquamarine; border-radius: 20px; color: black; 
+      }
+.container{
+   display: flex; width: 800px; height: 2500px;align-content: space-around;  border: 0.5px solid blue;
+   margin-left:100px; margin-top: 0.8cm;
+   background-size: 1340px 1268px; background-image: url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);margin-bottom: 10px;flex-flow: wrap; background-repeat: repeat-y; position: sticky;
+}
+.item{
+   width: 350px; box-sizing: border-box;  background-color: black; color: whitesmoke;box-shadow: 0 5px 8px 0px white; margin-left: auto; margin-right: auto; margin-top: -10px; margin-bottom: auto;
+   height: auto; text-transform: capitalize;flex-wrap: wrap; 
+}
+.container img{
+   width: 350px;
+   height: 200px;padding-left: -20px; position: relative; transition-duration: 0.s;transition-property: width,height,overflow; border-radius: 5px;}
+   .container img:hover{
+width: 352px;height: aut; overflow: hidden;
+   }
+#btn{
+   background-color: green; color: wheat; margin-bottom: auto;margin-top: 20px;margin-left: 6.5cm; height: 1cm; font-size: larger;transition-duration: 0.2s;transition-property: all;
+}
+#btn:hover{
+   background-color:black;color: white; border-radius: 10px;
+}
+#btn1{
+   background-color: green; color: wheat; margin-bottom: auto;margin-top: 40px;margin-left: 6.5cm; height: 1cm; font-size: larger; 
+}
+#head{
+  padding-left: 13.5cm; color: wheat; margin-left:-3.4cm;}
+#img{
+   padding-left: 15.5cm;
+}  
+#back{
+  background-image: url(1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); margin-top: 0cm; margin-left: -10px;width: 1359px; background-attachment: fixed;
+}
+.footer{
+   height: 60px; background-color: Black; color: white;width:1349px;
+}
+a{
+   color: royalblue;
+}
+a:hover{
+   background-color: rgba(255, 0, 0, 0.288);
+}
+a::after{
+   color: purple;
+}
+
+#fi{
+   list-style-type: none; display: inline-block;
+}
+#fiii{
+      display: inline-block; padding-left: auto;padding-top:auto; padding-bottom: auto; padding-right: auto; background-color: red; width:130px; height: 31px; margin-left: 25px;transition-duration: 0.5s;transition-property:border-radius;color: white; margin-top: auto;margin-bottom: auto; border-radius: 5px;
+}
+#fiii:hover{
+   background-color:greenyellow; color: Red; border-radius: 20px;
+}
+.header{
+   margin-top: -2cm;
+}
+::placeholder{
+   color: purple;
+}
+ol{
+   list-style-type: none;
+}
+ol li button p{
+   font-size: xx-large; 
+}
+.ad{
+   background-color:white;display: flex;  justify-content: center; width: 390px; height: 2200px;justify-content: center; flex-wrap: wrap;
+float: right;margin-top: 6.5cm; margin-right: 65px;position: sticky;
+}
+ #adh{
+   background-color: blue; background-size: 390px 50px;width: 388px; height: 45px; margin-top: 2px; border-radius: 30px;text-align: center; padding-top: auto; padding-top: 10px; font-family: sans-serif; text-transform: uppercase; animation-duration: 5s;animation-name: change;animation-delay: 0.5s; animation-iteration-count: infinite;
+}
+@keyframes change {
+   0%{ background-color: blue;}
+   25%{ background-color: green;}
+   50%{ background-color: red;}
+   75%{background-color: white;}
+   100%{background-color: yellow;}
+}
+.page{
+   display: flex; align-items: center; background-color: #fff;color: #383838;padding: 10px 40px;border-radius: 6px;
+}
+#order{
+margin: 20px 30px;
+}
+#order li{
+   display: inline-block;list-style-type: none;margin: 0px 10px;width: 45px;height: 45px;border-radius: 50%;text-align: center;font-size: 22px; font-weight: 500; line-height: 45px;cursor: pointer;
+}
+.btn1,.btn2{
+   display: inline-flex;align-items: center;font-size: 22px;font-weight: 500;color:#383838 ;background: transparent;outline: none;border: none; cursor: pointer;
+}
+.btn1 img{
+   width: 24px;margin-right: 15px;
+}
+.btn2 img{
+   width: 24px;margin-right: 15px; transform: rotate(180deg);
+}
+ul li.active{
+color: #fff;
+background-image: linear-gradient(#ff4568, #ff4568);
+background-repeat: no-repeat;
+}
