@@ -82,7 +82,7 @@ ol li button p{
 }
 .ad{
    background-color:white;display: flex;  justify-content: center; width: 410px; height: 1000px;justify-content: center; flex-wrap: wrap;
-float: right;margin-top: 6.5cm; margin-right: 60px;position: sticky;
+float: right;margin-top: 6.5cm; margin-right: 50px;position: sticky; margin-left:10px;
 }
  #adh{
    background-color: blue; background-size: 390px 50px;width:400px; height: 45px; margin-top: 2px; border-radius: 30px;text-align: center; padding-top: auto; padding-top: 10px; font-family: sans-serif; text-transform: uppercase; animation-duration: 5s;animation-name: change;animation-delay: 0.5s; animation-iteration-count: infinite;
