@@ -61,10 +61,10 @@ color: white;
 #hea :visited{
 color: white;
 }
-#head2{
+#head3 a #head2{
 color:purple;  cursor: pointer;
 }
-#head2 :hover{
+#head3 a #head2 :hover{
 color: blueviolet;
 }
 #head2:visited{
