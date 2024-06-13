@@ -44,6 +44,14 @@ table{
 #way ol{
 font-size:larger;
 }
+#f{
+    text-align: center;
+ }   
+h4{
+    text-align: center;font-size: larger;}
+    h4 a:hover{
+        color: blue;
+    }
 .f2 img{
     width: 200px;height: 100px;
 }
@@ -86,8 +94,4 @@ background-color:greenyellow; color: Red; border-radius: 20px;}
         #download{
             width: 200px;height: 55px; background-color: rgb(46, 158, 46);font-size: 1.0rem; text-transform: uppercase; cursor: pointer;margin-left: 495px; }
     
-            #f{
-                text-align: center;
-             }   
-            h4{
-                text-align: center;font-size: larger;}
+      
