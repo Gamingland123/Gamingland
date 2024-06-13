@@ -83,6 +83,7 @@ background-color:greenyellow; color: Red; border-radius: 20px;}
     height: 60px; background-color: Black; color: white;width:1347p}
 .footer{
         margin-left: 30px; display: flex; flex-wrap: wrap; justify-content: space-between;float: left;}
-
+        button{
+            width: 200px;height: 55px; background-color: rgb(46, 158, 46);font-size: 1.0rem; text-transform: uppercase; cursor: pointer;margin-left: 495px; }
     
 
