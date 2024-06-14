@@ -1,1 +1,12 @@
-9de32a25e45648c8bf5d2a48d3176c63
+POST /IndexNow HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Host: api.indexnow.org
+{
+  "host": "https://landofpcgames.online/",
+  "key": "9de32a25e45648c8bf5d2a48d3176c63",
+  "keyLocation": "https://landofpcgames.online/9de32a25e45648c8bf5d2a48d3176c63.txt",
+  "urlList": [
+      "https://landofpcgames.online/",
+      "https://landofpcgames.online/rdr2/rdr2.html",
+    ]
+}
