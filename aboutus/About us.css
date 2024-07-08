@@ -21,6 +21,8 @@ background-color: aquamarine; border-radius: 20px; color: black;
     .back{
         height: 400px; width: 1340px; background-image: url(1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); background-size: 1340px 400px; display: flex;align-items: center;
     }
+#head{
+        color:whitesmoke;background-color :rgba(128, 0, 128, 0.425) ;  text-align: center; font-size: 100px; background-size:788px; text-transform: uppercase;
     .main{
        margin-left: -8cm;
     }
