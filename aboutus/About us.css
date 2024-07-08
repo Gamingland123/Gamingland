@@ -42,3 +42,39 @@ background-color: aquamarine; border-radius: 20px; color: black;
     .side h2 a{
 color: royalblue; text-transform: capitalize;
     }
+ #about{
+        width: 100px;
+    }
+    .games{
+        width: 100px;
+    }
+   
+@media screen and (max-width :500px){
+        body{
+            padding: 0; background-image: url(Documents/jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
+            margin: 0; background-repeat: no-repeat;background-size: 500px  340px; margin-top: 2cm;}
+            ul{
+                list-style-type: none;
+                background-color:#210e0e;background-position: top; margin-bottom: -3cm;
+                color: white; margin: 0px; border-radius: 3cm; border-style:double; border-color: greenyellow;margin-top: 2cm; height: 40px; width: 450px;}
+                #head{
+                    text-transform:capitalize; background-size: 500px 200px; font-size: 50px;
+                }
+                .back{
+                    height: 400px; width:400px; background-image: url(Documents/1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); background-size: 1340px 400px; display: flex;align-items: center;
+    }
+    ul li button{
+        background-color: blueviolet; height:25px;margin-top: 0px; width:50px;font-size: smaller; color: white; transition-duration: 0.4s;
+        transition-property: all; margin-left: -30px;
+           }
+           ul li{
+            display: inline-block; padding: 17px; transition: 0.2s; margin-left: 15px; 
+           }
+           #about{
+            width: 70px;
+           }
+           .games{
+            width: 53px; padding-right: 4px;
+           }
+          
+        }
