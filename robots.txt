@@ -1,4 +1,1 @@
 User-Agent:*
-Disallow:/aboutus/aboutus.html
-
-sitemap: https://landofpcgames.online/sitemap.xml
