@@ -24,8 +24,8 @@ background-color: aquamarine; border-radius: 20px; color: black;
     .main{
        margin-left: -8cm;
     }
-    .my{
-        background-color: aliceblue;height: 400px;width: 700px; text-align: center; margin-top: -10.6cm; margin-left: auto;margin-right: auto;align-items: center;border: 0.5px solid black; font-size: larger;text-decoration:underline ;
+   .my{
+        background-color: aliceblue;height: 400px;width: 600px; text-align: center; margin-top: -10.6cm; margin-left:15.3cm;margin-right: 0;align-items: center;border: 0.5px solid black; font-size: larger;text-decoration:underline ;
     }
     .my p{
         text-transform: uppercase; font-size: large;font-style: italic;font-family: cursive;
